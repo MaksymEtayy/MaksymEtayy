@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaksymEtayy
 - 👀 I’m interested in .
-- 🌱 I’m currently learning ..
+- 🌱 I’m currently learning Fullstack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: etayy
 
